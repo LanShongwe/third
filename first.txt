@@ -1,1 +1,2 @@
-This is ther first document
+This is the first document
+This is the second document
